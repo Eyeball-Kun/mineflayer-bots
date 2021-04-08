@@ -15,13 +15,13 @@ also i actually suck at this and the code might suck
 
 as for actually running the bots you have to have node 
 https://nodejs.org/en/
-
+<br>
 then your gonna want to run
 npm i mineflayer
 npm i mineflayer-pvp
 npm i mineflayer-pathfinder
 npm i mineflayer-armor-manager
-
+</br>
 then the syntax for most of my bot is as follows:
 
 node filename.js ip port name password (password only applies if its a online server if its not then just leave it blank)
