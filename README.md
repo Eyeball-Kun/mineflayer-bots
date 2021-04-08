@@ -1,12 +1,6 @@
 # mineflayer bots
 this is where ill post my mineflayer bots
 
-if your wondering what mineflayer is
-
-https://github.com/PrismarineJS/mineflayer
-
-yea its pretty cool
-
 also i actually suck at this and the code might suck 
 
 as for actually running the bots you have to have node 
