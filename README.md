@@ -22,4 +22,4 @@ node filename.js ip port name password (password only applies if its a online se
 
 thats it
 
-report issues and stuff to Eyeball#7484 on discord
+report issues and stuff to Eyeball#5597on discord
